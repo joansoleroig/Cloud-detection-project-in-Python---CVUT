@@ -1,0 +1,810 @@
+1;17.78;Not enough data;Stop the machine
+2;17.78;Not enough data;Stop the machine
+3;17.66;Not enough data;Stop the machine
+4;17.56;Not enough data;Stop the machine
+5;17.41;17.7;Stop the machine
+6;17.3;17.6;Stop the machine
+7;17.26;17.48;Stop the machine
+8;17.19;17.38;Stop the machine
+9;17.15;17.29;Stop the machine
+10;17.14;17.23;Stop the machine
+11;17.11;17.19;Stop the machine
+12;17.12;17.15;Stop the machine
+13;17.18;17.13;Stop the machine
+14;17.23;17.14;Stop the machine
+15;17.3;17.16;Stop the machine
+16;17.34;17.21;Stop the machine
+17;17.37;17.26;Stop the machine
+18;17.52;17.31;Stop the machine
+19;17.62;17.38;Stop the machine
+20;17.65;17.46;Stop the machine
+21;17.77;17.54;Stop the machine
+22;17.86;17.64;Stop the machine
+23;17.89;17.72;Stop the machine
+24;18.01;17.79;Stop the machine
+25;18.12;17.88;Stop the machine
+26;18.18;17.97;Stop the machine
+27;18.19;18.05;Stop the machine
+28;18.25;18.12;Stop the machine
+29;18.22;18.18;Stop the machine
+30;18.19;18.21;Stop the machine
+31;18.19;18.21;Stop the machine
+32;18.17;18.21;Stop the machine
+33;18.14;18.19;Stop the machine
+34;18.16;18.17;Stop the machine
+35;18.18;18.16;Stop the machine
+36;18.24;18.16;Stop the machine
+37;18.25;18.18;Stop the machine
+38;18.25;18.21;Stop the machine
+39;18.29;18.23;Stop the machine
+40;18.3;18.26;Stop the machine
+41;18.29;18.27;Stop the machine
+42;18.34;18.28;Stop the machine
+43;18.35;18.3;Stop the machine
+44;18.37;18.32;Stop the machine
+45;18.42;18.34;Stop the machine
+46;18.42;18.37;Stop the machine
+47;18.47;18.39;Stop the machine
+48;18.44;18.42;Stop the machine
+49;18.46;18.44;Stop the machine
+50;18.39;18.45;Stop the machine
+51;18.41;18.44;Stop the machine
+52;18.32;18.42;Stop the machine
+53;18.22;18.4;Stop the machine
+54;18.15;18.34;Stop the machine
+55;18.1;18.27;Stop the machine
+56;18.02;18.2;Stop the machine
+57;18.0;18.12;Stop the machine
+58;18.01;18.07;Stop the machine
+59;17.99;18.03;Stop the machine
+60;17.96;18.0;Stop the machine
+61;17.96;17.99;Stop the machine
+62;18.01;17.98;Stop the machine
+63;18.03;17.98;Stop the machine
+64;18.04;17.99;Stop the machine
+65;18.05;18.01;Stop the machine
+66;18.1;18.03;Stop the machine
+67;18.1;18.06;Stop the machine
+68;18.11;18.07;Stop the machine
+69;18.1;18.09;Stop the machine
+70;18.05;18.1;Stop the machine
+71;17.98;18.09;Stop the machine
+72;17.93;18.06;Stop the machine
+73;17.87;18.02;Stop the machine
+74;17.76;17.96;Stop the machine
+75;17.68;17.89;Stop the machine
+76;17.63;17.81;Stop the machine
+77;17.54;17.74;Stop the machine
+78;17.39;17.65;Stop the machine
+79;17.31;17.56;Stop the machine
+80;17.26;17.47;Stop the machine
+81;17.13;17.38;Stop the machine
+82;17.04;17.27;Stop the machine
+83;16.94;17.19;Keep the machine ON
+84;16.79;17.09;Keep the machine ON
+85;16.7;16.98;Keep the machine ON
+86;16.6;16.87;Keep the machine ON
+87;16.46;16.76;Keep the machine ON
+88;16.39;16.64;Keep the machine ON
+89;16.27;16.54;Keep the machine ON
+90;16.11;16.43;Keep the machine ON
+91;16.0;16.31;Keep the machine ON
+92;15.82;16.19;Keep the machine ON
+93;15.59;16.05;Keep the machine ON
+94;15.46;15.88;Keep the machine ON
+95;15.21;15.72;Keep the machine ON
+96;14.95;15.52;Keep the machine ON
+97;14.83;15.3;Keep the machine ON
+98;14.56;15.11;Keep the machine ON
+99;14.35;14.89;Keep the machine ON
+100;14.19;14.67;Keep the machine ON
+101;13.98;14.48;Keep the machine ON
+102;13.79;14.27;Keep the machine ON
+103;13.68;14.08;Keep the machine ON
+104;13.55;13.91;Keep the machine ON
+105;13.39;13.75;Keep the machine ON
+106;13.28;13.6;Keep the machine ON
+107;13.15;13.48;Keep the machine ON
+108;13.02;13.34;Keep the machine ON
+109;12.95;13.21;Keep the machine ON
+110;12.81;13.1;Keep the machine ON
+111;12.68;12.98;Keep the machine ON
+112;12.6;12.86;Keep the machine ON
+113;12.55;12.76;Keep the machine ON
+114;12.54;12.66;Keep the machine ON
+115;12.48;12.59;Keep the machine ON
+116;12.4;12.54;Keep the machine ON
+117;12.32;12.49;Keep the machine ON
+118;12.29;12.44;Keep the machine ON
+119;12.19;12.37;Keep the machine ON
+120;12.07;12.3;Keep the machine ON
+121;12.03;12.22;Keep the machine ON
+122;11.94;12.14;Keep the machine ON
+123;11.87;12.06;Keep the machine ON
+124;11.86;11.98;Keep the machine ON
+125;11.79;11.92;Keep the machine ON
+126;11.8;11.86;Keep the machine ON
+127;11.79;11.83;Keep the machine ON
+128;11.79;11.81;Keep the machine ON
+129;11.81;11.79;Keep the machine ON
+130;11.77;11.8;Keep the machine ON
+131;11.74;11.79;Keep the machine ON
+132;11.71;11.78;Keep the machine ON
+133;11.72;11.76;Keep the machine ON
+134;11.72;11.74;Keep the machine ON
+135;11.71;11.72;Keep the machine ON
+136;11.72;11.72;Keep the machine ON
+137;11.72;11.72;Keep the machine ON
+138;11.71;11.72;Keep the machine ON
+139;11.71;11.72;Keep the machine ON
+140;11.71;11.72;Keep the machine ON
+141;11.73;11.71;Keep the machine ON
+142;11.74;11.72;Keep the machine ON
+143;11.75;11.72;Keep the machine ON
+144;11.75;11.73;Keep the machine ON
+145;11.74;11.74;Keep the machine ON
+146;11.78;11.74;Keep the machine ON
+147;11.77;11.76;Keep the machine ON
+148;11.77;11.76;Keep the machine ON
+149;11.78;11.76;Keep the machine ON
+150;11.8;11.77;Keep the machine ON
+151;11.85;11.78;Keep the machine ON
+152;11.85;11.8;Keep the machine ON
+153;11.89;11.82;Keep the machine ON
+154;11.93;11.85;Keep the machine ON
+155;11.92;11.88;Keep the machine ON
+156;11.94;11.9;Keep the machine ON
+157;11.96;11.92;Keep the machine ON
+158;11.97;11.94;Keep the machine ON
+159;12.03;11.95;Keep the machine ON
+160;12.09;11.98;Keep the machine ON
+161;12.19;12.01;Keep the machine ON
+162;12.24;12.07;Keep the machine ON
+163;12.24;12.14;Keep the machine ON
+164;12.29;12.19;Keep the machine ON
+165;12.31;12.24;Keep the machine ON
+166;12.32;12.27;Keep the machine ON
+167;12.34;12.29;Keep the machine ON
+168;12.36;12.32;Keep the machine ON
+169;12.38;12.33;Keep the machine ON
+170;12.39;12.35;Keep the machine ON
+171;12.36;12.37;Keep the machine ON
+172;12.27;12.37;Keep the machine ON
+173;12.22;12.35;Keep the machine ON
+174;12.13;12.31;Keep the machine ON
+175;11.94;12.24;Keep the machine ON
+176;11.87;12.14;Keep the machine ON
+177;11.77;12.04;Keep the machine ON
+178;11.68;11.93;Keep the machine ON
+179;11.63;11.82;Keep the machine ON
+180;11.58;11.74;Keep the machine ON
+181;11.54;11.66;Keep the machine ON
+182;11.47;11.61;Keep the machine ON
+183;11.4;11.56;Keep the machine ON
+184;11.32;11.5;Keep the machine ON
+185;11.25;11.43;Keep the machine ON
+186;11.19;11.36;Keep the machine ON
+187;11.13;11.29;Keep the machine ON
+188;11.1;11.22;Keep the machine ON
+189;11.07;11.17;Keep the machine ON
+190;11.04;11.12;Keep the machine ON
+191;10.99;11.08;Keep the machine ON
+192;10.98;11.05;Keep the machine ON
+193;10.93;11.02;Keep the machine ON
+194;10.88;10.99;Keep the machine ON
+195;10.82;10.94;Keep the machine ON
+196;10.76;10.9;Keep the machine ON
+197;10.73;10.85;Keep the machine ON
+198;10.67;10.8;Keep the machine ON
+199;10.63;10.74;Keep the machine ON
+200;10.6;10.7;Keep the machine ON
+201;10.58;10.66;Keep the machine ON
+202;10.59;10.62;Keep the machine ON
+203;10.59;10.6;Keep the machine ON
+204;10.62;10.59;Keep the machine ON
+205;10.68;10.6;Keep the machine ON
+206;10.69;10.62;Keep the machine ON
+207;10.71;10.64;Keep the machine ON
+208;10.72;10.68;Keep the machine ON
+209;10.7;10.7;Keep the machine ON
+210;10.69;10.7;Keep the machine ON
+211;10.67;10.7;Keep the machine ON
+212;10.61;10.7;Keep the machine ON
+213;10.54;10.67;Keep the machine ON
+214;10.49;10.63;Keep the machine ON
+215;10.45;10.58;Keep the machine ON
+216;10.34;10.52;Keep the machine ON
+217;10.29;10.46;Keep the machine ON
+218;10.26;10.39;Keep the machine ON
+219;10.19;10.34;Keep the machine ON
+220;10.14;10.27;Keep the machine ON
+221;10.12;10.22;Keep the machine ON
+222;10.09;10.18;Keep the machine ON
+223;10.1;10.13;Keep the machine ON
+224;10.08;10.11;Keep the machine ON
+225;10.05;10.1;Keep the machine ON
+226;10.01;10.08;Keep the machine ON
+227;10.01;10.06;Keep the machine ON
+228;9.97;10.04;Keep the machine ON
+229;9.91;10.01;Keep the machine ON
+230;9.87;9.98;Keep the machine ON
+231;9.81;9.94;Keep the machine ON
+232;9.76;9.89;Keep the machine ON
+233;9.7;9.84;Keep the machine ON
+234;9.61;9.78;Keep the machine ON
+235;9.6;9.72;Keep the machine ON
+236;9.55;9.67;Keep the machine ON
+237;9.48;9.61;Keep the machine ON
+238;9.41;9.56;Keep the machine ON
+239;9.37;9.51;Keep the machine ON
+240;9.3;9.45;Keep the machine ON
+241;9.22;9.39;Keep the machine ON
+242;9.18;9.33;Keep the machine ON
+243;9.08;9.27;Keep the machine ON
+244;8.97;9.2;Keep the machine ON
+245;8.92;9.11;Keep the machine ON
+246;8.87;9.04;Keep the machine ON
+247;8.81;8.96;Keep the machine ON
+248;8.78;8.89;Keep the machine ON
+249;8.7;8.85;Keep the machine ON
+250;8.62;8.79;Keep the machine ON
+251;8.58;8.73;Keep the machine ON
+252;8.53;8.67;Keep the machine ON
+253;8.48;8.61;Keep the machine ON
+254;8.42;8.55;Keep the machine ON
+255;8.34;8.5;Keep the machine ON
+256;8.31;8.44;Keep the machine ON
+257;8.24;8.39;Keep the machine ON
+258;8.17;8.33;Keep the machine ON
+259;8.06;8.26;Keep the machine ON
+260;7.98;8.2;Keep the machine ON
+261;7.85;8.11;Keep the machine ON
+262;7.72;8.02;Keep the machine ON
+263;7.65;7.9;Keep the machine ON
+264;7.56;7.8;Keep the machine ON
+265;7.47;7.69;Keep the machine ON
+266;7.42;7.6;Keep the machine ON
+267;7.34;7.52;Keep the machine ON
+268;7.31;7.45;Keep the machine ON
+269;7.25;7.38;Keep the machine ON
+270;7.17;7.33;Keep the machine ON
+271;7.09;7.27;Keep the machine ON
+272;7.03;7.2;Keep the machine ON
+273;6.9;7.14;Keep the machine ON
+274;6.79;7.05;Keep the machine ON
+275;6.69;6.95;Keep the machine ON
+276;6.59;6.85;Keep the machine ON
+277;6.52;6.74;Keep the machine ON
+278;6.47;6.65;Keep the machine ON
+279;6.41;6.57;Keep the machine ON
+280;6.31;6.5;Keep the machine ON
+281;6.25;6.43;Keep the machine ON
+282;6.17;6.36;Keep the machine ON
+283;6.11;6.28;Keep the machine ON
+284;6.05;6.21;Keep the machine ON
+285;5.98;6.14;Keep the machine ON
+286;5.87;6.08;Keep the machine ON
+287;5.84;6.0;Keep the machine ON
+288;5.79;5.94;Keep the machine ON
+289;5.74;5.87;Keep the machine ON
+290;5.7;5.81;Keep the machine ON
+291;5.68;5.77;Keep the machine ON
+292;5.69;5.73;Keep the machine ON
+293;5.68;5.7;Keep the machine ON
+294;5.64;5.69;Keep the machine ON
+295;5.63;5.67;Keep the machine ON
+296;5.54;5.66;Keep the machine ON
+297;5.48;5.62;Keep the machine ON
+298;5.45;5.57;Keep the machine ON
+299;5.43;5.52;Keep the machine ON
+300;5.4;5.48;Keep the machine ON
+301;5.39;5.44;Keep the machine ON
+302;5.41;5.42;Keep the machine ON
+303;5.39;5.41;Keep the machine ON
+304;5.41;5.4;Keep the machine ON
+305;5.4;5.4;Keep the machine ON
+306;5.42;5.4;Keep the machine ON
+307;5.42;5.41;Keep the machine ON
+308;5.43;5.41;Keep the machine ON
+309;5.44;5.42;Keep the machine ON
+310;5.48;5.43;Keep the machine ON
+311;5.5;5.44;Keep the machine ON
+312;5.53;5.46;Keep the machine ON
+313;5.59;5.49;Keep the machine ON
+314;5.58;5.52;Keep the machine ON
+315;5.57;5.55;Keep the machine ON
+316;5.57;5.57;Keep the machine ON
+317;5.55;5.58;Keep the machine ON
+318;5.57;5.57;Keep the machine ON
+319;5.58;5.56;Keep the machine ON
+320;5.55;5.57;Keep the machine ON
+321;5.67;5.56;Keep the machine ON
+322;5.7;5.59;Keep the machine ON
+323;5.72;5.62;Keep the machine ON
+324;5.71;5.66;Keep the machine ON
+325;5.7;5.7;Keep the machine ON
+326;5.67;5.71;Keep the machine ON
+327;5.67;5.7;Keep the machine ON
+328;5.67;5.69;Keep the machine ON
+329;5.68;5.68;Keep the machine ON
+330;5.66;5.67;Keep the machine ON
+331;5.64;5.67;Keep the machine ON
+332;5.63;5.66;Keep the machine ON
+333;5.65;5.65;Keep the machine ON
+334;5.63;5.64;Keep the machine ON
+335;5.6;5.64;Keep the machine ON
+336;5.63;5.63;Keep the machine ON
+337;5.63;5.63;Keep the machine ON
+338;5.66;5.62;Keep the machine ON
+339;5.69;5.63;Keep the machine ON
+340;5.75;5.65;Keep the machine ON
+341;5.81;5.68;Keep the machine ON
+342;5.84;5.73;Keep the machine ON
+343;5.91;5.77;Keep the machine ON
+344;6.06;5.83;Keep the machine ON
+345;6.1;5.9;Keep the machine ON
+346;6.23;5.98;Keep the machine ON
+347;6.36;6.08;Keep the machine ON
+348;6.45;6.19;Keep the machine ON
+349;6.61;6.28;Keep the machine ON
+350;6.76;6.41;Keep the machine ON
+351;6.85;6.54;Keep the machine ON
+352;6.98;6.67;Keep the machine ON
+353;7.13;6.8;Keep the machine ON
+354;7.19;6.93;Keep the machine ON
+355;7.31;7.04;Keep the machine ON
+356;7.42;7.15;Keep the machine ON
+357;7.5;7.26;Keep the machine ON
+358;7.59;7.36;Keep the machine ON
+359;7.76;7.46;Keep the machine ON
+360;7.86;7.57;Keep the machine ON
+361;7.97;7.68;Keep the machine ON
+362;8.1;7.8;Keep the machine ON
+363;8.18;7.92;Keep the machine ON
+364;8.29;8.03;Keep the machine ON
+365;8.45;8.14;Keep the machine ON
+366;8.52;8.25;Keep the machine ON
+367;8.65;8.36;Keep the machine ON
+368;8.78;8.48;Keep the machine ON
+369;8.86;8.6;Keep the machine ON
+370;8.98;8.7;Keep the machine ON
+371;9.15;8.82;Keep the machine ON
+372;9.2;8.94;Keep the machine ON
+373;9.3;9.05;Keep the machine ON
+374;9.47;9.16;Keep the machine ON
+375;9.52;9.28;Keep the machine ON
+376;9.59;9.37;Keep the machine ON
+377;9.68;9.47;Keep the machine ON
+378;9.73;9.57;Keep the machine ON
+379;9.79;9.63;Keep the machine ON
+380;9.86;9.7;Keep the machine ON
+381;9.92;9.76;Keep the machine ON
+382;9.98;9.82;Keep the machine ON
+383;10.07;9.89;Keep the machine ON
+384;10.11;9.96;Keep the machine ON
+385;10.18;10.02;Keep the machine ON
+386;10.26;10.09;Keep the machine ON
+387;10.28;10.15;Keep the machine ON
+388;10.36;10.21;Keep the machine ON
+389;10.43;10.27;Keep the machine ON
+390;10.47;10.33;Keep the machine ON
+391;10.52;10.38;Keep the machine ON
+392;10.59;10.44;Keep the machine ON
+393;10.62;10.5;Keep the machine ON
+394;10.67;10.55;Keep the machine ON
+395;10.75;10.6;Keep the machine ON
+396;10.79;10.66;Keep the machine ON
+397;10.85;10.71;Keep the machine ON
+398;10.94;10.76;Keep the machine ON
+399;11.0;10.83;Keep the machine ON
+400;11.07;10.9;Keep the machine ON
+401;11.16;10.96;Keep the machine ON
+402;11.2;11.04;Keep the machine ON
+403;11.28;11.11;Keep the machine ON
+404;11.32;11.18;Keep the machine ON
+405;11.36;11.24;Keep the machine ON
+406;11.41;11.29;Keep the machine ON
+407;11.48;11.34;Keep the machine ON
+408;11.48;11.39;Keep the machine ON
+409;11.52;11.43;Keep the machine ON
+410;11.59;11.47;Keep the machine ON
+411;11.62;11.52;Keep the machine ON
+412;11.75;11.55;Keep the machine ON
+413;11.86;11.62;Keep the machine ON
+414;11.87;11.7;Keep the machine ON
+415;11.95;11.77;Keep the machine ON
+416;12.0;11.86;Keep the machine ON
+417;12.02;11.92;Keep the machine ON
+418;12.11;11.96;Keep the machine ON
+419;12.15;12.02;Keep the machine ON
+420;12.19;12.07;Keep the machine ON
+421;12.22;12.12;Keep the machine ON
+422;12.3;12.17;Keep the machine ON
+423;12.27;12.22;Keep the machine ON
+424;12.35;12.24;Keep the machine ON
+425;12.4;12.29;Keep the machine ON
+426;12.4;12.33;Keep the machine ON
+427;12.45;12.35;Keep the machine ON
+428;12.5;12.4;Keep the machine ON
+429;12.5;12.44;Keep the machine ON
+430;12.57;12.46;Keep the machine ON
+431;12.6;12.5;Keep the machine ON
+432;12.62;12.54;Keep the machine ON
+433;12.7;12.57;Keep the machine ON
+434;12.8;12.62;Keep the machine ON
+435;12.78;12.68;Keep the machine ON
+436;12.83;12.73;Keep the machine ON
+437;12.88;12.78;Keep the machine ON
+438;12.87;12.82;Keep the machine ON
+439;12.89;12.84;Keep the machine ON
+440;12.89;12.87;Keep the machine ON
+441;12.81;12.88;Keep the machine ON
+442;12.8;12.86;Keep the machine ON
+443;12.76;12.85;Keep the machine ON
+444;12.7;12.82;Keep the machine ON
+445;12.7;12.77;Keep the machine ON
+446;12.68;12.74;Keep the machine ON
+447;12.63;12.71;Keep the machine ON
+448;12.63;12.68;Keep the machine ON
+449;12.56;12.66;Keep the machine ON
+450;12.49;12.63;Keep the machine ON
+451;12.46;12.58;Keep the machine ON
+452;12.49;12.54;Keep the machine ON
+453;12.43;12.5;Keep the machine ON
+454;12.46;12.47;Keep the machine ON
+455;12.43;12.46;Keep the machine ON
+456;12.37;12.45;Keep the machine ON
+457;12.42;12.42;Keep the machine ON
+458;12.45;12.42;Keep the machine ON
+459;12.44;12.42;Keep the machine ON
+460;12.49;12.42;Keep the machine ON
+461;12.51;12.45;Keep the machine ON
+462;12.49;12.47;Keep the machine ON
+463;12.56;12.48;Keep the machine ON
+464;12.59;12.51;Keep the machine ON
+465;12.61;12.54;Keep the machine ON
+466;12.73;12.56;Keep the machine ON
+467;12.85;12.62;Keep the machine ON
+468;12.85;12.7;Keep the machine ON
+469;12.98;12.76;Keep the machine ON
+470;13.06;12.85;Keep the machine ON
+471;13.09;12.94;Keep the machine ON
+472;13.18;13.0;Keep the machine ON
+473;13.25;13.08;Keep the machine ON
+474;13.28;13.14;Keep the machine ON
+475;13.33;13.2;Keep the machine ON
+476;13.41;13.26;Keep the machine ON
+477;13.41;13.32;Keep the machine ON
+478;13.46;13.36;Keep the machine ON
+479;13.51;13.4;Keep the machine ON
+480;13.56;13.45;Keep the machine ON
+481;13.49;13.49;Keep the machine ON
+482;13.55;13.5;Keep the machine ON
+483;13.58;13.53;Keep the machine ON
+484;13.57;13.54;Keep the machine ON
+485;13.61;13.55;Keep the machine ON
+486;13.64;13.58;Keep the machine ON
+487;13.62;13.6;Keep the machine ON
+488;13.67;13.61;Keep the machine ON
+489;13.73;13.64;Keep the machine ON
+490;13.71;13.66;Keep the machine ON
+491;13.75;13.68;Keep the machine ON
+492;13.81;13.72;Keep the machine ON
+493;13.84;13.75;Keep the machine ON
+494;13.9;13.78;Keep the machine ON
+495;13.96;13.82;Keep the machine ON
+496;13.99;13.88;Keep the machine ON
+497;14.08;13.92;Stop the machine
+498;14.13;13.98;Stop the machine
+499;14.15;14.04;Stop the machine
+500;14.23;14.09;Stop the machine
+501;14.38;14.15;Stop the machine
+502;14.42;14.22;Stop the machine
+503;14.53;14.3;Stop the machine
+504;14.64;14.39;Stop the machine
+505;14.71;14.49;Stop the machine
+506;14.81;14.58;Stop the machine
+507;14.95;14.67;Stop the machine
+508;15.05;14.78;Stop the machine
+509;15.17;14.88;Stop the machine
+510;15.3;15.0;Stop the machine
+511;15.43;15.12;Stop the machine
+512;15.58;15.24;Stop the machine
+513;15.75;15.37;Stop the machine
+514;15.85;15.52;Stop the machine
+515;15.96;15.65;Stop the machine
+516;16.06;15.78;Stop the machine
+517;16.07;15.9;Stop the machine
+518;16.11;15.99;Stop the machine
+519;16.22;16.05;Stop the machine
+520;16.27;16.11;Stop the machine
+521;16.31;16.17;Stop the machine
+522;16.3;16.23;Stop the machine
+523;16.29;16.27;Stop the machine
+524;16.35;16.29;Stop the machine
+525;16.34;16.31;Stop the machine
+526;16.31;16.32;Keep the machine ON
+527;16.31;16.32;Keep the machine ON
+528;16.25;16.33;Keep the machine ON
+529;16.23;16.3;Keep the machine ON
+530;16.24;16.27;Keep the machine ON
+531;16.27;16.26;Stop the machine
+532;16.28;16.25;Stop the machine
+533;16.37;16.26;Stop the machine
+534;16.4;16.29;Stop the machine
+535;16.47;16.33;Stop the machine
+536;16.57;16.38;Stop the machine
+537;16.71;16.45;Stop the machine
+538;16.79;16.54;Stop the machine
+539;16.92;16.63;Stop the machine
+540;16.97;16.75;Stop the machine
+541;17.02;16.85;Stop the machine
+542;17.08;16.92;Stop the machine
+543;17.1;17.0;Stop the machine
+544;17.11;17.04;Stop the machine
+545;17.07;17.08;Stop the machine
+546;17.0;17.09;Keep the machine ON
+547;16.94;17.07;Keep the machine ON
+548;16.92;17.03;Keep the machine ON
+549;16.87;16.98;Keep the machine ON
+550;16.87;16.93;Keep the machine ON
+551;16.85;16.9;Keep the machine ON
+552;16.85;16.88;Keep the machine ON
+553;16.78;16.86;Keep the machine ON
+554;16.72;16.84;Keep the machine ON
+555;16.63;16.8;Keep the machine ON
+556;16.58;16.74;Keep the machine ON
+557;16.47;16.68;Keep the machine ON
+558;16.39;16.6;Keep the machine ON
+559;16.32;16.52;Keep the machine ON
+560;16.25;16.44;Keep the machine ON
+561;16.16;16.36;Keep the machine ON
+562;16.09;16.28;Keep the machine ON
+563;16.01;16.21;Keep the machine ON
+564;15.94;16.13;Keep the machine ON
+565;15.88;16.05;Keep the machine ON
+566;15.82;15.98;Keep the machine ON
+567;15.82;15.91;Keep the machine ON
+568;15.78;15.86;Keep the machine ON
+569;15.74;15.82;Keep the machine ON
+570;15.79;15.79;Keep the machine ON
+571;15.81;15.78;Stop the machine
+572;15.8;15.78;Stop the machine
+573;15.82;15.78;Stop the machine
+574;15.82;15.81;Stop the machine
+575;15.83;15.81;Stop the machine
+576;15.74;15.82;Keep the machine ON
+577;15.74;15.8;Keep the machine ON
+578;15.76;15.78;Keep the machine ON
+579;15.8;15.77;Stop the machine
+580;15.77;15.76;Stop the machine
+581;15.74;15.77;Keep the machine ON
+582;15.73;15.77;Keep the machine ON
+583;15.76;15.76;Keep the machine ON
+584;15.79;15.75;Stop the machine
+585;15.84;15.76;Stop the machine
+586;15.87;15.78;Stop the machine
+587;15.87;15.82;Stop the machine
+588;15.9;15.84;Stop the machine
+589;15.91;15.87;Stop the machine
+590;15.93;15.89;Stop the machine
+591;16.01;15.9;Stop the machine
+592;16.01;15.94;Stop the machine
+593;15.97;15.96;Stop the machine
+594;15.98;15.98;Keep the machine ON
+595;15.93;15.99;Keep the machine ON
+596;15.89;15.97;Keep the machine ON
+597;15.89;15.94;Keep the machine ON
+598;15.88;15.92;Keep the machine ON
+599;15.9;15.9;Keep the machine ON
+600;15.84;15.89;Keep the machine ON
+601;15.82;15.88;Keep the machine ON
+602;15.85;15.86;Keep the machine ON
+603;15.89;15.85;Stop the machine
+604;15.85;15.85;Keep the machine ON
+605;15.83;15.85;Keep the machine ON
+606;15.87;15.86;Stop the machine
+607;15.85;15.86;Keep the machine ON
+608;15.83;15.85;Keep the machine ON
+609;15.84;15.84;Keep the machine ON
+610;15.8;15.85;Keep the machine ON
+611;15.8;15.83;Keep the machine ON
+612;15.79;15.82;Keep the machine ON
+613;15.73;15.81;Keep the machine ON
+614;15.69;15.78;Keep the machine ON
+615;15.65;15.75;Keep the machine ON
+616;15.61;15.72;Keep the machine ON
+617;15.51;15.67;Keep the machine ON
+618;15.43;15.62;Keep the machine ON
+619;15.35;15.55;Keep the machine ON
+620;15.25;15.48;Keep the machine ON
+621;15.15;15.38;Keep the machine ON
+622;15.03;15.3;Keep the machine ON
+623;14.96;15.2;Keep the machine ON
+624;14.91;15.1;Keep the machine ON
+625;14.84;15.01;Keep the machine ON
+626;14.89;14.94;Keep the machine ON
+627;14.95;14.9;Stop the machine
+628;14.92;14.9;Stop the machine
+629;14.91;14.9;Stop the machine
+630;14.92;14.92;Keep the machine ON
+631;14.92;14.92;Keep the machine ON
+632;14.95;14.92;Stop the machine
+633;14.95;14.92;Stop the machine
+634;14.96;14.93;Stop the machine
+635;15.0;14.94;Stop the machine
+636;15.16;14.96;Stop the machine
+637;15.24;15.02;Stop the machine
+638;15.29;15.09;Stop the machine
+639;15.35;15.17;Stop the machine
+640;15.42;15.26;Stop the machine
+641;15.43;15.32;Stop the machine
+642;15.47;15.37;Stop the machine
+643;15.58;15.42;Stop the machine
+644;15.73;15.48;Stop the machine
+645;15.83;15.55;Stop the machine
+646;15.95;15.65;Stop the machine
+647;16.08;15.77;Stop the machine
+648;16.18;15.9;Stop the machine
+649;16.32;16.01;Stop the machine
+650;16.39;16.13;Stop the machine
+651;16.42;16.24;Stop the machine
+652;16.51;16.33;Stop the machine
+653;16.59;16.41;Stop the machine
+654;16.71;16.48;Stop the machine
+655;16.84;16.56;Stop the machine
+656;16.93;16.66;Stop the machine
+657;17.06;16.77;Stop the machine
+658;17.23;16.88;Stop the machine
+659;17.34;17.02;Stop the machine
+660;17.42;17.14;Stop the machine
+661;17.53;17.26;Stop the machine
+662;17.56;17.38;Stop the machine
+663;17.68;17.46;Stop the machine
+664;17.8;17.55;Stop the machine
+665;17.94;17.64;Stop the machine
+666;18.01;17.74;Stop the machine
+667;18.09;17.86;Stop the machine
+668;18.14;17.96;Stop the machine
+669;18.18;18.05;Stop the machine
+670;18.26;18.1;Stop the machine
+671;18.29;18.17;Stop the machine
+672;18.33;18.22;Stop the machine
+673;18.42;18.26;Stop the machine
+674;18.52;18.32;Stop the machine
+675;18.54;18.39;Stop the machine
+676;18.68;18.45;Stop the machine
+677;18.74;18.54;Stop the machine
+678;18.81;18.62;Stop the machine
+679;18.92;18.69;Stop the machine
+680;18.99;18.79;Stop the machine
+681;19.06;18.86;Stop the machine
+682;19.19;18.94;Stop the machine
+683;19.25;19.04;Stop the machine
+684;19.33;19.12;Stop the machine
+685;19.39;19.21;Stop the machine
+686;19.43;19.29;Stop the machine
+687;19.46;19.35;Stop the machine
+688;19.58;19.4;Stop the machine
+689;19.59;19.46;Stop the machine
+690;19.67;19.52;Stop the machine
+691;19.73;19.58;Stop the machine
+692;19.72;19.64;Stop the machine
+693;19.72;19.68;Stop the machine
+694;19.83;19.71;Stop the machine
+695;19.81;19.75;Stop the machine
+696;19.92;19.77;Stop the machine
+697;20.05;19.82;Stop the machine
+698;20.14;19.9;Stop the machine
+699;20.22;19.98;Stop the machine
+700;20.37;20.08;Stop the machine
+701;20.5;20.2;Stop the machine
+702;20.57;20.31;Stop the machine
+703;20.67;20.42;Stop the machine
+704;20.73;20.53;Stop the machine
+705;20.74;20.62;Stop the machine
+706;20.8;20.68;Stop the machine
+707;20.84;20.74;Stop the machine
+708;20.91;20.78;Stop the machine
+709;21.01;20.82;Stop the machine
+710;21.08;20.89;Stop the machine
+711;21.17;20.96;Stop the machine
+712;21.25;21.04;Stop the machine
+713;21.31;21.13;Stop the machine
+714;21.36;21.2;Stop the machine
+715;21.38;21.27;Stop the machine
+716;21.39;21.32;Stop the machine
+717;21.39;21.36;Stop the machine
+718;21.33;21.38;Stop the machine
+719;21.35;21.37;Stop the machine
+720;21.33;21.36;Stop the machine
+721;21.32;21.35;Stop the machine
+722;21.3;21.33;Stop the machine
+723;21.25;21.32;Stop the machine
+724;21.17;21.3;Stop the machine
+725;21.16;21.26;Stop the machine
+726;21.07;21.22;Stop the machine
+727;20.89;21.16;Stop the machine
+728;20.8;21.07;Stop the machine
+729;20.6;20.98;Stop the machine
+730;20.41;20.84;Stop the machine
+731;20.31;20.68;Stop the machine
+732;20.12;20.53;Stop the machine
+733;19.93;20.36;Stop the machine
+734;19.74;20.19;Stop the machine
+735;19.47;20.02;Stop the machine
+736;19.12;19.81;Stop the machine
+737;18.93;19.57;Stop the machine
+738;18.77;19.31;Stop the machine
+739;18.66;19.07;Stop the machine
+740;18.56;18.87;Stop the machine
+741;18.42;18.73;Stop the machine
+742;18.28;18.6;Stop the machine
+743;18.15;18.48;Stop the machine
+744;18.05;18.35;Stop the machine
+745;17.97;18.23;Stop the machine
+746;17.89;18.11;Stop the machine
+747;17.84;18.02;Stop the machine
+748;17.85;17.94;Stop the machine
+749;17.8;17.89;Stop the machine
+750;17.74;17.85;Stop the machine
+751;17.7;17.81;Stop the machine
+752;17.71;17.77;Stop the machine
+753;17.68;17.74;Stop the machine
+754;17.66;17.71;Stop the machine
+755;17.66;17.69;Stop the machine
+756;17.7;17.68;Stop the machine
+757;17.78;17.68;Stop the machine
+758;17.82;17.7;Stop the machine
+759;17.91;17.74;Stop the machine
+760;18.03;17.8;Stop the machine
+761;18.07;17.89;Stop the machine
+762;18.09;17.96;Stop the machine
+763;18.19;18.02;Stop the machine
+764;18.24;18.1;Stop the machine
+765;18.32;18.15;Stop the machine
+766;18.43;18.21;Stop the machine
+767;18.49;18.3;Stop the machine
+768;18.51;18.37;Stop the machine
+769;18.6;18.44;Stop the machine
+770;18.66;18.51;Stop the machine
+771;18.71;18.57;Stop the machine
+772;18.8;18.62;Stop the machine
+773;18.83;18.69;Stop the machine
+774;18.86;18.75;Stop the machine
+775;18.86;18.8;Stop the machine
+776;18.88;18.84;Stop the machine
+777;18.87;18.86;Stop the machine
+778;18.81;18.87;Stop the machine
+779;18.74;18.86;Stop the machine
+780;18.68;18.82;Stop the machine
+781;18.64;18.77;Stop the machine
+782;18.63;18.72;Stop the machine
+783;18.58;18.67;Stop the machine
+784;18.56;18.63;Stop the machine
+785;18.52;18.6;Stop the machine
+786;18.47;18.57;Stop the machine
+787;18.55;18.53;Stop the machine
+788;18.48;18.52;Stop the machine
+789;18.38;18.5;Stop the machine
+790;18.38;18.47;Stop the machine
+791;18.33;18.45;Stop the machine
+792;18.29;18.39;Stop the machine
+793;18.21;18.34;Stop the machine
+794;18.23;18.3;Stop the machine
+795;18.2;18.26;Stop the machine
+796;18.15;18.23;Stop the machine
+797;18.12;18.2;Stop the machine
+798;18.16;18.18;Stop the machine
+799;18.26;18.16;Stop the machine
+800;18.33;18.17;Stop the machine
+801;18.34;18.22;Stop the machine
+802;18.33;18.27;Stop the machine
+803;18.33;18.32;Stop the machine
+804;18.33;18.33;Stop the machine
+805;18.33;18.33;Stop the machine
+806;18.33;18.33;Stop the machine
+807;18.33;18.33;Stop the machine
+808;18.33;18.33;Stop the machine
+809;18.33;18.33;Stop the machine
+810;18.33;18.33;Stop the machine
