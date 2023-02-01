@@ -13,4 +13,3 @@ The code returns whether the macihne should stop or keep running.
 The code also retruns the video with the % at each frame of the video as well as the message at every moment.
 The code finally writes a .txt file prepared to be opened as csv in excel to be further analysed and it writes the information of each frame.
 We can later conduct the analysis of the excel file and see how many times the machines has been stopped/running.
-
