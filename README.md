@@ -6,8 +6,8 @@ The aim of the project is to detect the clouds in the sky and make a decision to
 The code reads a video, frame by frame and it culatesthe percentage of grey and white inside the frame. This is done through RGB color detection.
 
 Then we set 2 conditions:
-The machine will stop if the last picture has a % of over 50% of gray and white.
-And the machine will also stop whenever it has % of over 30% of the 5th frame is over the mean of the last 4 frames.
+The machine will stop if the last picture has a % of over 17% of gray and white.
+And the machine will also stop whenever it has % of over 14% of the 5th frame is over the mean of the last 4 frames as we consider the number of clouds is growing.
 
 The code returns whether the macihne should stop or keep running.
 The code also retruns the video with the % at each frame of the video as well as the message at every moment.
