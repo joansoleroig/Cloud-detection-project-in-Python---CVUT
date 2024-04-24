@@ -1,6 +1,4 @@
 # Project-2-CVUT
-This is the repository for Project 2.
-
 
 The aim of the project is to detect the clouds in the sky and make a decision to stop the machine when there are too many clouds.
 The code reads a video, frame by frame and it culatesthe percentage of grey and white inside the frame. This is done through RGB color detection.
